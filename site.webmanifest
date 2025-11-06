@@ -1,15 +1,15 @@
 {
-    "name": "Giuseppe Silvi - ElettroAcustico Permanente",
-    "short_name": "Giuseppe",
+    "name": "Davide Tedesco",
+    "short_name": "Davide",
     "icons": [
         {
-            "src": "/giuseppe/web-app-manifest-192x192.png",
+            "src": "/davide/web-app-manifest-192x192.png",
             "sizes": "192x192",
             "type": "image/png",
             "purpose": "maskable"
         },
         {
-            "src": "/giuseppe/web-app-manifest-512x512.png",
+            "src": "/davide/web-app-manifest-512x512.png",
             "sizes": "512x512",
             "type": "image/png",
             "purpose": "maskable"
@@ -18,5 +18,5 @@
     "theme_color": "#230031",
     "background_color": "#230031",
     "display": "standalone",
-    "start_url": "/giuseppe/"
+    "start_url": "/davide/"
 }
