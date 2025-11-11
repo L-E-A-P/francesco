@@ -19,11 +19,11 @@ remote_theme: "L-E-A-P/so-leap-theme"
 skin: "/assets/css/skins/dark.css"
 
 locale: it-IT
-title: "Davide"
+title: "Francesco"
 description: ""
-baseurl: "/davide" # the subpath of your site, e.g. "/blog"
+baseurl: "/francesco" # the subpath of your site, e.g. "/blog"
 url: "https://www.leaphz.net" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-logo: /images/dt.png # path of site logo, e.g. "/images/logo.png"
+logo: /images/ff.jpg # path of site logo, e.g. "/images/logo.png"
 date_format: "%B %-d, %Y"
 read_time: # reading time estimates, e.g. true
 words_per_minute: # 200
