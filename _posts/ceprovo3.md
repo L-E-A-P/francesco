@@ -1,0 +1,1 @@
+c'è un momento, dopo un atto creativo, in cui ripensando a tutto il percorso fatto realizzi che quel particolare stadio, questo elemento, questo nuovo oggetto è così grazie al mio intervento, al mio percorso , per la mia traccia.

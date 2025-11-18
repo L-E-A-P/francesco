@@ -85,7 +85,9 @@ plugins:
 collections:
   pto:
     output: true
-
+  nodi:
+    output: true
+    permalink: /:collection/:path/
 # Front Matter Defaults
 defaults:
   # Posts defaults
@@ -101,6 +103,14 @@ defaults:
       type: pto
     values:
       layout: page
+      comments: true
+      share: true
+
+  - scope:
+      path: "_nodi"
+      type: nodi
+    values:
+      layout: post
       comments: true
       share: true
 
