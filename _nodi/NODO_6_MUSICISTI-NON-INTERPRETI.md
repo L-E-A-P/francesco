@@ -3,20 +3,18 @@ title: "Nodo 6"
 image:
   path: /images/a.jpg
   thumbnail: /images/a00.jpg
-  caption: "MUSICISTI / NON-INTERPRETI"
+  caption: "MUSICISTI"
 ---
 
 
-# MUSICISTI / NON-INTERPRETI
+# MUSICISTI
 
 **STATO:** In esplorazione
 
-## CHIARITO:
+## Temi:
 
-### Perché "interpreti" è inadeguato:
-- "Interprete" implica esecuzione di istruzioni prescritte
+### Dubbio se usare parola interpreti
 - Implica mediazione tra compositore e pubblico
-- Implica fedeltà a un testo dato
 - Nel progetto non c'è nulla da "interpretare" nel senso tradizionale
 
 ### Cosa fanno invece:
@@ -31,6 +29,11 @@ image:
 ### Relazione con l'analogia Cage:
 "Come Cage tratta i suoni come entità viventi (che hanno vita propria, non vanno ripetuti meccanicamente), io tratto i musicisti."
 
+---
+
+>J. C. – O solamente, come le ho già detto, molto più vicino a Fischinger. Ogni suono ha il suo spirito, la propria vita. E questa vita, non si può pretendere di ripeterla. Essa non può mai diventare l’esempio di una vita, un esempio per un’altra vita. Quel che è vero per i suoni vale anche per gli uomini. Ed è giustamente per questo che gli uomini non sono suoni né i suoni sono uomini. Detto questo, i musicisti passano tutto il loro tempo a dimenticarlo. La mia pedagogia, è che non bisogna più dimenticarlo.
+
+---
 
 ## IN ESPLORAZIONE:
 
@@ -40,8 +43,9 @@ Opzioni considerate:
 - **Costruttori** - enfatizza il lasciare traccia
 
 
-**Domanda aperta**: Cosa sono esattamente?
-
+**Domande aperte**:
+- Cosa sono esattamente?
+- Ha senso usare la parola interperte?
 
 ## TENSIONI:
 - [Nessuna tensione irrisolta al momento]

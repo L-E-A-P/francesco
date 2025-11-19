@@ -11,7 +11,7 @@ image:
 
 **STATO:** Stabile
 
-## CHIARITO:
+## ARGOMENTI:
 
 ### SPAZIO:
 - Indifferenziato, generico, potenziale

@@ -10,7 +10,7 @@ image:
 
 **STATO:** Parzialmente stabile
 
-## CHIARITO:
+## ARGOMENTI:
 
 ### Definizione generale:
 - **Azione nel mezzo tra due identità**

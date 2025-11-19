@@ -10,7 +10,7 @@ image:
 
 **STATO:** Stabile
 
-## CHIARITO:
+## ARGOMENTI:
 - Azione nel mezzo, reciproca
 - Ecosistema totale (non separazione individui/ambiente)
 - Include feedback come parte integrante

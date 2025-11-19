@@ -12,7 +12,7 @@ image:
 
 **STATO:** Parzialmente stabile
 
-## CHIARITO:
+## ARGOMENTI:
 
 ### Etimologia:
 **Latino:** *habitare* (frequentativo di *habere*)
@@ -48,7 +48,7 @@ image:
 - Quanto tempo serve per passare da esploratori ad abitanti?
 
 ### Relazione con le provocazioni:
-Le provocazioni guidano l'abitare? O sono solo stimoli iniziali?
+Le provocazioni guidano l'abitare?
 
 ## TENSIONI:
 

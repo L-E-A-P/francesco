@@ -11,7 +11,7 @@ image:
 
 **STATO:** Stabile
 
-## CHIARITO:
+## ARGOMENTI:
 
 ### LIVELLO CONFIGURAZIONALE (SPAZIALE):
 **Dove agisce il compositore**

@@ -10,7 +10,7 @@ image:
 
 **STATO:** Stabile
 
-## CHIARITO:
+## ARGOMENTI:
 
 ### Natura della presenza:
 - **Non cristallizzata** (come partitura tradizionale)
