@@ -14,10 +14,10 @@ image:
 
 ### Definizione generale:
 - **Azione nel mezzo tra due identità**
+- interazione(?)
 - Elemento/processo/luogo che si interpone tra entrata e uscita
 - **Non restituisce l'identità come è entrata**
 - Trasforma ciò che lo attraversa
-- È relazionale (mette in relazione)
 - Porta segni del passaggio
 
 ### Etimologia:
@@ -35,6 +35,8 @@ Quando uno spazio diventa luogo (acquisendo delimitazione e caratteristiche), st
   - Sul foglio gli angoli non sono 90° (dimensione dei parametri)
   - Nella dimensione superiore sono 90° (dimensione temporale)
 - Il filtro "crede" di essere un passabasso ma è diventato altro
+- tennsione abitare-esplorare, un luogo che nella dimensione in cui è immerso non è osservabile dall'esterno, è pensabile non immaginabile, non figurabile
+- caduta della visione aumento dell'ascolto
 
 ### "Relativo" significa:
 L'identità dipende dalla dimensione di osservazione. Non è un passabasso "assoluto", è relativo al tempo, ai ritardi interni che si modificano processualmente.
