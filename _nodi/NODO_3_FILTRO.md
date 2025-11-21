@@ -49,7 +49,7 @@ L'identità dipende dalla dimensione di osservazione. Non è un passabasso "asso
 - Relazione precisa tra filtro-strumento e filtro-mondo (sono entrambi, ma come coesistono?)
 - Come far evitare che il pubblico non interferisca?
 - Quanto è sensibile a eccitazioni esterne?
--memoria, cosa vuol dire che il filtro ha memoria, cosa è la memoria?
+- memoria, cosa vuol dire che il filtro ha memoria, cosa è la memoria?
 ## TENSIONI:
 - [Nessuna tensione irrisolta al momento]
 
