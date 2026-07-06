@@ -83,10 +83,8 @@ plugins:
   - jekyll-target-blank
 
 collections:
-  pto:
-    output: true
   nodi:
-    output: true
+    output: false
     permalink: /:collection/:path/
 # Front Matter Defaults
 defaults:
@@ -96,14 +94,6 @@ defaults:
       type: posts
     values:
       layout: post
-      share: true
-# pto
-  - scope:
-      path: "_pto"
-      type: pto
-    values:
-      layout: page
-      comments: true
       share: true
 
   - scope:
