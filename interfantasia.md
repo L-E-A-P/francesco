@@ -33,13 +33,13 @@ Il compositore non scrive cosa accade durante la sessione: predispone le condizi
 
 Il sistema è costruito in Pure Data (patch `luogo5.pd`). La catena, mostrata nello schema in apertura, è identica per ogni coppia microfono–altoparlante e viene replicata tante volte quanti sono i canali usati. Le diverse istanze operano indipendentemente nei processi interni ma sono accoppiate acusticamente attraverso lo spazio fisico, perché il suono di ciascun altoparlante raggiunge non solo il proprio microfono ma anche gli altri. Nelle sessioni di *interfantasia* sono state usate quattro istanze, ma il numero non è vincolato e si adatta allo spazio e all'organico.
 
-- **T1 — Taratura.** Il segnale del microfono viene abilitato e scalato; raggiunge in parallelo descrittori (T2), bicomb (T4), generatori (T8) e zone (T9).
-- **T2 — Descrittori spettrali.** Lo spettro viene analizzato ogni 100 ms: il centroide va alle zone (T9), gli altri cinque descrittori (flatness, spread, irregolarità, flux, onset) alle soglie (T3).
-- **T3 — Soglie.** Spread e irregolarità passano prima per un riscalamento; tutti i descrittori attraversano poi un sistema di soglie che produce spostamenti di segno opposto fuori dalla zona morta.
-- **T4 — Bicomb.** Accoglie gli ingressi dal microfono, dai generatori e dalle zone; al suo interno gli integratori (T5, in Faust) accumulano gli spostamenti prodotti dalle soglie e li rimappano sui parametri dei quattro filtri bicomb.
-- **T7 — LAR ×4.** Quattro istanze parallele di *Level Adaptation and Regulation* (riduzione automatica del livello, ispirata all'*audible ecosystemics* di Di Scipio) mantengono il sistema al limite dell'autooscillazione.
-- **T8 — Generatori.** Quando IIR o FIR raggiungono valori specifici viene emesso un bang che attiva rumore bianco o treni di impulsi, che rientrano nel bicomb.
-- **T9 — Zone.** I parametri del bicomb attivano gradualmente tre processi: saturazione a soglia oscillante, ritardi multi-tap, modulazione ad anello con il centroide come frequenza portante.
+- **T1 (Taratura).** Il segnale del microfono viene abilitato e scalato; raggiunge in parallelo descrittori (T2), bicomb (T4), generatori (T8) e zone (T9).
+- **T2 (Descrittori spettrali).** Lo spettro viene analizzato ogni 100 ms: il centroide va alle zone (T9), gli altri cinque descrittori (flatness, spread, irregolarità, flux, onset) alle soglie (T3).
+- **T3 (Soglie).** Spread e irregolarità passano prima per un riscalamento; tutti i descrittori attraversano poi un sistema di soglie che produce spostamenti di segno opposto fuori dalla zona morta.
+- **T4 (Bicomb).** Accoglie gli ingressi dal microfono, dai generatori e dalle zone; al suo interno gli integratori (T5, in Faust) accumulano gli spostamenti prodotti dalle soglie e li rimappano sui parametri dei quattro filtri bicomb.
+- **T7 (LAR ×4).** Quattro istanze parallele di *Level Adaptation and Regulation* (riduzione automatica del livello, ispirata all'*audible ecosystemics* di Di Scipio) mantengono il sistema al limite dell'autooscillazione.
+- **T8 (Generatori).** Quando IIR o FIR raggiungono valori specifici viene emesso un bang che attiva rumore bianco o treni di impulsi, che rientrano nel bicomb.
+- **T9 (Zone).** I parametri del bicomb attivano gradualmente tre processi: saturazione a soglia oscillante, ritardi multi-tap, modulazione ad anello con il centroide come frequenza portante.
 
 ## Il filtro bicomb
 
@@ -79,6 +79,6 @@ Una registrazione di una sessione sarà disponibile qui a breve.
 
 ## Crediti
 
-*interfantasia* — Francesco Ferracuti.
+*interfantasia*, di Francesco Ferracuti.
 Organico: clarinetto contrabbasso, timpano, sistema elettronico in tempo reale.
 Altoparlanti tetraedrici S.T.ONE di Giuseppe Silvi.
