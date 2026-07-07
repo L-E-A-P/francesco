@@ -10,4 +10,4 @@ Ha collaborato come assistente musicale al Festival ArteScienza nel 2023 e 2024,
 
 ## Opere
 
-**[interfantasia →](/interfantasia/)**, brano per insieme di musicisti e ambiente in tempo reale: un sistema di filtri digitali pensato come un luogo da abitare, che musicisti e spazio modificano nel tempo.
+**[interfantasia →]({{ "/interfantasia/" | relative_url }})**, brano per insieme di musicisti e ambiente in tempo reale: un sistema di filtri digitali pensato come un luogo da abitare, che musicisti e spazio modificano nel tempo.
