@@ -1,7 +1,8 @@
 ---
 title: interfantasia
-layout: page
+date: 2026-03-19
 permalink: /interfantasia/
+tags: [live electronics, feedback, Pure Data, S.T.ONE]
 image:
   path: /images/interfantasia/hero.png
   caption: "Schema del sistema (singolo canale): mic → taratura → analisi → soglie → bicomb → LAR → altoparlanti."
@@ -11,11 +12,11 @@ image:
 
 Abitare un luogo vuol dire prendersene cura, modificarlo, cambiargli forma nel tempo, inserendo e spostando oggetti al suo interno. E cosa è un oggetto, acusticamente? Un filtro. Abitare acusticamente è cambiargli timbro.
 
-Il titolo unisce *inter-* (in mezzo, fra) e *fantasia* (immaginazione): l'opera è l'intreccio delle immaginazioni delle parti coinvolte. In *interfantasia* l'elettronica è pensata come luogo da abitare. I musicisti e l'ambiente fisico in cui sono immersi lo modificano nel tempo, modellandolo.
+Il titolo unisce *inter-* (in mezzo, fra) e *fantasia* (immaginazione): il lavoro è l'intreccio delle immaginazioni delle parti coinvolte. In *interfantasia* l'elettronica è pensata come luogo da abitare. I musicisti e l'ambiente fisico in cui sono immersi lo modificano nel tempo, modellandolo.
 
 I musicisti scelgono come suonare ascoltando il circostante: gli altri musicisti e l'ambiente. La relazione si articola in uno spettro che va dall'accordo all'opposizione. Il luogo è stato disegnato dal compositore: è lui a suonare con i musicisti, ascolta e modifica chi lo abita attraverso una rete di filtri.
 
-Il compositore non decide cosa far accadere: predispone le condizioni perché qualcosa accada. L'opera non è fissata: varia con i musicisti coinvolti e con i diversi luoghi in cui viene suonata, e ogni volta riparte da dove si era interrotta. I musicisti non studiano un brano a memoria, studiano un modo di abitare quel luogo: ogni prova è già una sessione. Il concerto non è il punto d'arrivo, ma il momento in cui anche il pubblico ha accesso alla storia del luogo.
+Il compositore non decide cosa far accadere: predispone le condizioni perché qualcosa accada. Il lavoro non è fissato: varia con i musicisti coinvolti e con i diversi luoghi in cui viene suonato, e ogni volta riparte da dove si era interrotto. I musicisti non studiano un brano a memoria, studiano un modo di abitare quel luogo: ogni prova è già una sessione. Il concerto non è il punto d'arrivo, ma il momento in cui anche il pubblico ha accesso alla storia del luogo.
 
 ## Concept
 
