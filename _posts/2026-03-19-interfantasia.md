@@ -48,8 +48,12 @@ Prima della sessione, ogni musicista traccia il proprio percorso indipendente at
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/francesco-ferracuti-644369535/interfantasia&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false"></iframe>
 
+## Materiali
+
+Codice del sistema, partitura e diagrammi sono nel [repository del brano](https://gitlab.com/francesco-ferracuti/interfantasia); la ricerca è raccolta nella [tesi del biennio](https://gitlab.com/francesco-ferracuti/interfantasia_tesi-biennio). La lavorazione è documentata anche nella [pagina del brano in bottega](https://www.leaphz.net/bottega/web/interfantasia/).
+
 ## Crediti
 
 *interfantasia*, di Francesco Ferracuti.
-Organico: clarinetto contrabbasso, timpano, sistema elettronico in tempo reale.
+Organico: clarinetto contrabbasso, Tempo (Timpani ElectroMagnetic Pulse Oscillation), sistema elettronico in tempo reale.
 Altoparlanti tetraedrici S.T.ONE di Giuseppe Silvi.
